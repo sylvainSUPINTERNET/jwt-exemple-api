@@ -1,0 +1,27 @@
+{
+  "name": "pfe-finale-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.0.1",
+    "localStorage": "^1.0.3",
+    "mongoose": "^4.11.11",
+    "morgan": "^1.8.2",
+    "nodemon": "^1.12.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0",
+    "sha256": "^0.2.0"
+  }
+}
